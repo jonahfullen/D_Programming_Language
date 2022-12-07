@@ -1,4 +1,5 @@
 import std.stdio;
+import std.algorithm;
 
 auto isEven(int[] list) {
   return list[] %= 2;
